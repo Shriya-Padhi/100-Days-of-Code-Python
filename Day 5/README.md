@@ -25,7 +25,7 @@ then the password might look like this:
 ```
 Output v1: fgdx$*924
 ```
-You can see that all the letters are together. All the symbols are together and all the numbers follow each other as well. Try to solve this problem first. 
+You can see that all the letters are together. All the symbols are together and all the numbers follow each other as well. 
 
 
 In the advanced version of this project the final password does not follow a pattern. So the example above might look like this:
