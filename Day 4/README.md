@@ -6,8 +6,8 @@
 Start the game by asking the player:
 
 *"What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."*
-
-The game is played where players deliver hand signals that will represent the elements of the game; rock, paper and scissors. The outcome of the game is determined by 3 simple rules:
+*The computer too generates an input.*
+The outcome of the game is determined by 3 simple rules:
 
 ```
 Rock wins against scissors.
