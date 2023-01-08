@@ -11,4 +11,4 @@ Day 3: Treasure Hunt Game (if and elif statements)
 
 Day 4: Rock Paper Scissors (Random Module)
 
-Day 5: Random Password Generator (For Loops and Range function)
+Day 5: Random Password Generator (For Loops, Random Module and Range function)
